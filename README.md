@@ -1,6 +1,6 @@
 # 🛡️ Formulário de Avaliação de Segurança e Privacidade em Soluções SaaS
 
-Este projeto consiste em um formulário web interativo com 40 perguntas que avaliam práticas de **segurança e privacidade** adotadas por pequenas e médias empresas (PMEs) que utilizam ou oferecem soluções SaaS (Software como Serviço). Ele foi desenvolvido como parte de um Trabalho de Conclusão de Curso (TCC).
+Este projeto consiste em um formulário para plataforma web interativo com 40 perguntas que avaliam práticas de **segurança e privacidade** adotadas por pequenas e médias empresas (PMEs) que utilizam ou oferecem soluções SaaS (Software como Serviço). Ele foi desenvolvido como parte de um Trabalho de Conclusão de Curso (TCC).
 
 ## 🚀 Funcionalidades
 
